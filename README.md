@@ -1,8 +1,8 @@
-Project Description
+**Project Description**
 
 MaddPremium Cartel dApp is a decentralized application built on the Andromeda Protocol, designed to create an exclusive, permissionless digital marketplace. The dApp integrates ADO (Andromeda Decentralized Object) technology to provide secure, automated transactions and a seamless user experience. Users can engage in premium trading, staking, and governance functionalities in a trustless environment.
 
-Key Features
+**Key Features**
 
 Decentralized Marketplace – Buy, sell, and trade digital assets securely.
 
@@ -14,9 +14,9 @@ Multi-Signature Security – Ensuring a secure transaction process.
 
 Seamless Wallet Integration – Easy access through popular crypto wallets.
 
-Embeddable Link
+**Embeddable Link**
 
-Visit MaddPremium Cartel dApp
+MaddPremium Cartel(https://embeddables.testnet.andromedaprotocol.io/galileo-4/madpremium-cartel)
 
 Future Scope
 
