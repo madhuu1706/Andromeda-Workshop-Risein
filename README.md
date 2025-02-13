@@ -5,15 +5,15 @@ MaddPremium Cartel dApp is a decentralized application built on the Andromeda Pr
 
 **Key Features**
 
-Decentralized Marketplace – Buy, sell, and trade digital assets securely.
+-Decentralized Marketplace – Buy, sell, and trade digital assets securely.
 
-Staking & Rewards – Earn rewards by staking assets within the platform.
+-Staking & Rewards – Earn rewards by staking assets within the platform.
 
-Governance Participation – Users can vote on key protocol decisions.
+-Governance Participation – Users can vote on key protocol decisions.
 
-Multi-Signature Security – Ensuring a secure transaction process.
+-Multi-Signature Security – Ensuring a secure transaction process.
 
-Seamless Wallet Integration – Easy access through popular crypto wallets.
+-Seamless Wallet Integration – Easy access through popular crypto wallets.
 
 
 **Embeddable Link**
@@ -23,12 +23,12 @@ MaddPremium Cartel[https://embeddables.testnet.andromedaprotocol.io/galileo-4/ma
 
 **Future Scope**
 
-Integration of AI-based fraud detection mechanisms.
+-Integration of AI-based fraud detection mechanisms.
 
-Expansion to support cross-chain interoperability.
+-Expansion to support cross-chain interoperability.
 
-Development of a mobile application for wider accessibility.
+-Development of a mobile application for wider accessibility.
 
-Introduction of NFT-based premium memberships.
+-Introduction of NFT-based premium memberships.
 
-Enhanced DeFi functionalities for broader financial solutions.
+-Enhanced DeFi functionalities for broader financial solutions.
