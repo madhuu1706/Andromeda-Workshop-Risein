@@ -1,0 +1,12 @@
+{
+  "description": "Suzuki HAYABUSA Gen3 2020 Edition.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://gateway.pinata.cloud/ipfs/https://gateway.pinata.cloud/ipfs/bafkreidhu5zko3xif22ulusf4jrj2iq6qeivokoe5csg52nje4g2mw36r4", 
+  "name": "Suzuki HAYABUSA Gen3",
+  "attributes": [ 
+    {
+        "trait_type": "GitHub",
+        "value": "madhuu1706"  
+    }
+   ]
+}
