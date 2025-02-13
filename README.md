@@ -16,7 +16,7 @@ Seamless Wallet Integration – Easy access through popular crypto wallets.
 
 **Embeddable Link**
 
-MaddPremium Cartel(https://embeddables.testnet.andromedaprotocol.io/galileo-4/madpremium-cartel)
+MaddPremium Cartel[https://embeddables.testnet.andromedaprotocol.io/galileo-4/madpremium-cartel]
 
 Future Scope
 
